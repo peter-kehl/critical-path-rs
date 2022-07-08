@@ -1,0 +1,3 @@
+Critical: LongestPathRoot->LongestPathCenter->LongestPathLast
+Minimum: 111
+Parallelism: 2

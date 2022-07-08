@@ -1,0 +1,13 @@
+
+
+ExtraLineBreaksAreOK(1)
+
+Dashes-and_underscores_are_OK(1)
+
+After-ContainingTaskName_Is_OK(1)
+
+Dependent(1)
+  after [
+  ExtraLineBreaksAreOK,
+  
+  Dashes-and_underscores_are_OK]

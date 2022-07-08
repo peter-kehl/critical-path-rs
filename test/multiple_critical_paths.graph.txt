@@ -1,0 +1,8 @@
+Water(1)------->Yeast(2)->Flour(1)->Oil(1)->Knead(5)->Rise(120)->Bake_pizza(10) = total 140
+            \
+             \->Amino_powder(1)->Shake(1)->Drink(1)
+Nuts(1)->--\  \
+Jacket(1)->------>-----\
+Charge_batteries(120)->-->Pack(15)->Ready_for_a_hike(5) = total 140
+
+Call_friends(3)->Laundry(120)->Get_ready(2)->Go_to_party(15) = total 140

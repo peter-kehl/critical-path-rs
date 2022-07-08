@@ -1,0 +1,28 @@
+Water(1)
+Yeast(2) after
+  [Water]
+Flour(1) after [
+  Yeast]
+Oil(1)
+  after [Flour]
+Knead(5) after [Oil]
+Rise(120) after [Knead]
+Bake_pizza(10) after [Rise]
+
+Amino_powder(1) after [Water]
+Shake(1) after [Amino_powder]
+Drink(1) after [Shake]
+
+Nuts(1)
+Jacket(1)
+Charge_batteries(120)
+Pack(15) after [
+    Water,
+  Nuts,
+  Charge_batteries, Jacket]
+Ready_for_a_hike(5) after [Pack]
+
+Call_friends(3)
+Laundry(120) after [Call_friends]
+Get_ready(2) after [Laundry]
+Go_to_party(15) after [Get_ready]

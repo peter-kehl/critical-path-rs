@@ -1,0 +1,7 @@
+# Here are all the critical paths:
+Critical: Water->Yeast->Flour->Oil->Knead->Rise->Bake_pizza
+Critical: Call_friends->Laundry->Get_ready->Go_to_party
+Critical: Charge_batteries->Pack->Ready_for_a_hike
+
+Minimum: 140
+Parallelism: 4
